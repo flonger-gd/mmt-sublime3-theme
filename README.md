@@ -10,8 +10,7 @@ modify from
 http://tmtheme-editor.herokuapp.com
 
 
-![](https://raw.githubusercontent.com/flonger-gd/mmt-sublime3-theme/master/01.jpg)
-<br/>
-![](https://raw.githubusercontent.com/flonger-gd/mmt-sublime3-theme/master/02.jpg)
+![](https://raw.githubusercontent.com/flonger-gd/mmt-sublime3-theme/master/1.png)
+
 
 if you like it, pls give me star. think u.
